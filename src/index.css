@@ -1,0 +1,18 @@
+.post-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+.post-card {
+    list-style: none;
+    text-align: left;
+    color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+}
